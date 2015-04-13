@@ -1,0 +1,13 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <cn.cqut.edu.view.autochangeviewpager.AutochangeViewpager
+        android:id="@+id/autochangeViewpager1"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent" >
+
+    </cn.cqut.edu.view.autochangeviewpager.AutochangeViewpager>
+
+</LinearLayout>
